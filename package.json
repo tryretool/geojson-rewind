@@ -36,7 +36,7 @@
   "devDependencies": {
     "@mapbox/geojsonhint": "^2.1.0",
     "cz-conventional-changelog": "^2.0.0",
-    "tape": "^4.8.0"
+    "tape": "^5.2.2"
   },
   "config": {
     "commitizen": {
